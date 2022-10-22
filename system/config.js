@@ -1,5 +1,5 @@
 // Owner number
-global.owner = '6282141544557'
+global.owner = '6285730794089'
 // Owner name
 global.owner_name = 'Customer Service'
 // Maximum upload file size limit (Default : 50 MB)
@@ -24,9 +24,9 @@ global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Bot version
 global.version = '2.2.1',
 // Bot name
-global.botname = `© neoxr-bot v${global.version} (Public Bot)`
+global.botname = `© gilzz-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'Gilzz Bot WhatsApp  ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
